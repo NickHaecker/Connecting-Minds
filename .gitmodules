@@ -1,0 +1,8 @@
+[submodule "Connecting-Minds-Data-Types"]
+	url = https://github.com/NickHaecker/Connecting-Minds-Data-Types.git
+[submodule "Connecting-Minds-Data-Types-Unity-Converter"]
+	url = https://github.com/NickHaecker/Connecting-Minds-Data-Types.git
+[submodule "Connecting-Minds-Mobile-Player"]
+	url = https://github.com/NickHaecker/Connecting-Minds-Mobile-Player.git
+[submodule "Connecting-Minds-Socket"]
+	url = https://github.com/NickHaecker/Connecting-Minds-Socket.git
