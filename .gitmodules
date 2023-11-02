@@ -6,5 +6,3 @@
 	url = https://github.com/NickHaecker/Connecting-Minds-Mobile-Player.git
 [submodule "Connecting-Minds-Socket"]
 	url = https://github.com/NickHaecker/Connecting-Minds-Socket.git
-[submodule "Connecting-Minds-Unity-Player"]
-	url = https://github.com/NickHaecker/Connecting-Minds-Unity-Player.git
